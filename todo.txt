@@ -1,0 +1,2 @@
+- Aesthetics(more specifically pretty shit to the right side of the screen)
+- Add all text to a list when a game is over to fix "New Game?" being reprinted
